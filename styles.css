@@ -69,7 +69,7 @@ main {
 
 @media only screen and (max-width: 768px) {
   .main-left,.main-right {
-    width: 62%;
+    width: 58%;
   }
 }
 
@@ -84,6 +84,8 @@ main {
   width: 26%;
   background-color: #cdb7ef;
 }
+
+
 
 footer {
   height: 4vh; 
